@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moviex/static/css/main.2061b8f2.css",
+    "main.js": "/Moviex/static/js/main.2397a86c.js",
+    "index.html": "/Moviex/index.html",
+    "main.2061b8f2.css.map": "/Moviex/static/css/main.2061b8f2.css.map",
+    "main.2397a86c.js.map": "/Moviex/static/js/main.2397a86c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2061b8f2.css",
+    "static/js/main.2397a86c.js"
+  ]
+}
